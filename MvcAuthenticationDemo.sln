@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MvcAuthenticationDemo", "MvcAuthenticationDemo\MvcAuthenticationDemo.vbproj", "{814E99E8-FFF7-40D9-824D-DD1CAFF662DB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcTwitterAuthentication", "MvcTwitterAuthentication\MvcTwitterAuthentication.csproj", "{66836FA9-739E-415F-AD61-C06EC85E1471}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{814E99E8-FFF7-40D9-824D-DD1CAFF662DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{814E99E8-FFF7-40D9-824D-DD1CAFF662DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{814E99E8-FFF7-40D9-824D-DD1CAFF662DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{814E99E8-FFF7-40D9-824D-DD1CAFF662DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66836FA9-739E-415F-AD61-C06EC85E1471}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66836FA9-739E-415F-AD61-C06EC85E1471}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66836FA9-739E-415F-AD61-C06EC85E1471}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66836FA9-739E-415F-AD61-C06EC85E1471}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
